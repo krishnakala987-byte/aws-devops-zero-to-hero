@@ -1,3 +1,16 @@
+##  Note
+This repository is forked from Abhishek Veeramalla’s  
+**AWS DevOps Zero to Hero** series.
+
+I am using this repository strictly for:
+- Learning & reference
+- Following along with the YouTube series
+- Hands-on practice
+
+ My personal implementations, notes, and mistakes are documented here:
+https://github.com/krishnakala987-byte/aws-cloud-journey
+
+
 # aws-devops-zero-to-hero
 
 Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
